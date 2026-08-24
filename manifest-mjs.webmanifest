@@ -1,0 +1,33 @@
+{
+  "id": "/mistrz-jednej-struny/",
+  "name": "Mistrz Jednej Struny",
+  "short_name": "Jedna struna",
+  "description": "Interaktywny konspekt Mistrz Jednej Struny od Wujka Szpona.",
+  "lang": "pl",
+  "start_url": "/mistrz-jednej-struny/",
+  "scope": "/mistrz-jednej-struny/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ffcc00",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://wujekszpon.github.io/mistrz-jednej-struny/manifest-mjs.webmanifest",
+      "id": "https://wujekszpon.github.io/mistrz-jednej-struny/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./pwa-mjs-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-mjs-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
