@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mistrz-jednej-struny-v1';
+const CACHE_NAME = 'mistrz-jednej-struny-v2';
 const APP_SHELL = [
   './',
   './manifest-mjs.webmanifest',
